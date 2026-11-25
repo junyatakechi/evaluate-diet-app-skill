@@ -2,7 +2,7 @@
 name: evaluate-diet-app-skill
 description: "文脈: ダイエット進捗。種類: アプリケーションスキル。使う場面: 名前で指名されたときだけ使い、会話の内容からは選ばない。"
 metadata:
-  skill-version: "0.21.1"
+  skill-version: "0.21.2"
   design-name: "人の判断を切り出すAgent Skillsの設計"
   design-version: "7.0.0"
   design-url: "https://app.notion.com/p/3eaf2fd6925e8102b86fee3b6b3dd5a3"
